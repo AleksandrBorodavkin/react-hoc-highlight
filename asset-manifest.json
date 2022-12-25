@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-hoc-highlight/static/css/main.ccd07e36.css",
+    "main.js": "/react-hoc-highlight/static/js/main.d6f0b408.js",
+    "static/js/787.d8c71c15.chunk.js": "/react-hoc-highlight/static/js/787.d8c71c15.chunk.js",
+    "index.html": "/react-hoc-highlight/index.html",
+    "main.ccd07e36.css.map": "/react-hoc-highlight/static/css/main.ccd07e36.css.map",
+    "main.d6f0b408.js.map": "/react-hoc-highlight/static/js/main.d6f0b408.js.map",
+    "787.d8c71c15.chunk.js.map": "/react-hoc-highlight/static/js/787.d8c71c15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccd07e36.css",
+    "static/js/main.d6f0b408.js"
+  ]
+}
